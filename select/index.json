@@ -1,0 +1,80 @@
+{
+  "version": 1,
+  "base_track": "錠剤",
+  "base_artist": "TOOBOE",
+  "createdAt": "2025-12-11T10:08:15.161932Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "錠剤",
+      "artist": "TOOBOE",
+      "has_synced": true,
+      "path": "select/01_錠剤_TOOBOE.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "錠剤",
+      "artist": "TOOBOE",
+      "has_synced": true,
+      "path": "select/02_錠剤_TOOBOE.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "錠剤",
+      "artist": "TOOBOE",
+      "has_synced": true,
+      "path": "select/03_錠剤_TOOBOE.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "錠剤",
+      "artist": "TOOBOE",
+      "has_synced": true,
+      "path": "select/04_錠剤_TOOBOE.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "錠剤",
+      "artist": "TOOBOE",
+      "has_synced": true,
+      "path": "select/05_錠剤_TOOBOE.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "錠剤 - tablet",
+      "artist": "TOOBOE",
+      "has_synced": true,
+      "path": "select/06_錠剤_-_tablet_TOOBOE.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "錠剤 - With ensemble",
+      "artist": "TOOBOE",
+      "has_synced": true,
+      "path": "select/07_錠剤_-_With_ensemble_TOOBOE.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Tablet (English Cover)「Chainsaw Man ED 4」【Will Stetson】「錠剤」",
+      "artist": "Will Stetson",
+      "has_synced": true,
+      "path": "select/08_Tablet_(English_Cover)「Chainsaw_Man_ED_4」【Will_Stetson】「錠剤」_Will_Stetson.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "錠剤",
+      "artist": "TOOBOE",
+      "has_synced": false,
+      "path": "select/pl_01_錠剤_TOOBOE.txt"
+    }
+  ]
+}
